@@ -262,6 +262,10 @@
 
 <!-- wp:block {"ref":92} /-->
 
+<!-- wp:group {"align":"wide","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignwide"><!-- wp:heading {"align":"wide","style":{"elements":{"link":{"color":{"text":"var:preset|color|cyan-bluish-gray"}}}},"backgroundColor":"primary","textColor":"tertiary","fontSize":"xl-large"} -->
+<h1 class="wp-block-heading alignwide has-tertiary-color has-primary-background-color has-text-color has-background has-link-color has-xl-large-font-size"><strong>Projects</strong></h2>
+<!-- /wp:heading -->
 
 <!-- wp:group {"align":"wide","layout":{"type":"constrained","justifyContent":"center"}} -->
 <div class="wp-block-group alignwide"><!-- wp:heading {"align":"wide","style":{"elements":{"link":{"color":{"text":"var:preset|color|cyan-bluish-gray"}}}},"backgroundColor":"primary","textColor":"tertiary","fontSize":"x-large"} -->
