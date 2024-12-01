@@ -21,15 +21,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"text":"#1d1d1f"}},"className":"is-style-outline"} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"color":{"text":"#1d1d1f"}}} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color wp-element-button" href="https://shamisochikamhi.wordpress.com/my-projects/" style="color:#1d1d1f" rel="nofollow">My Projects</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"66.66%"} -->
-<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":22,"width":"319px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://shamisochikamhi.files.wordpress.com/2023/10/img_1478.jpeg" alt="" class="wp-image-22" style="width:319px;height:auto"/></figure>
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":290,"width":"367px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://shamisochikamhi.wordpress.com/wp-content/uploads/2024/12/prof-image-edited.jpg" alt="" class="wp-image-290" style="width:367px;height:auto" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -44,8 +44,8 @@
 <div class="wp-block-group alignwide has-link-color"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"align":"full","style":{"spacing":{"blockGap":{"top":"45px","left":"45px"}}}} -->
 <div class="wp-block-columns alignfull"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":189,"width":"167px","height":"auto","sizeSlug":"full","linkDestination":"custom","style":{"color":{"duotone":"var:preset|duotone|midnight"}},"className":"margin-bottom-half"} -->
-<figure class="wp-block-image size-full is-resized margin-bottom-half"><img src="https://shamisochikamhi.files.wordpress.com/2024/01/dallc2b7e-2024-01-29-12.38.47-a-distinct-and-simple-symbol-representing-data-analysis-created-with-a-blue-color-scheme-and-a-transparent-background.-the-symbol-features-an-abstrac-2.png" alt="" class="wp-image-189" style="width:167px;height:auto"/><figcaption class="wp-element-caption">Data Analytics</figcaption></figure>
+<div class="wp-block-column"><!-- wp:image {"id":189,"width":"167px","height":"auto","sizeSlug":"full","linkDestination":"custom","className":"margin-bottom-half","style":{"color":{"duotone":"var:preset|duotone|midnight"}}} -->
+<figure class="wp-block-image size-full is-resized margin-bottom-half"><img src="https://shamisochikamhi.wordpress.com/wp-content/uploads/2024/01/dallc2b7e-2024-01-29-12.38.47-a-distinct-and-simple-symbol-representing-data-analysis-created-with-a-blue-color-scheme-and-a-transparent-background.-the-symbol-features-an-abstrac-2.png" alt="" class="wp-image-189" style="width:167px;height:auto" /><figcaption class="wp-element-caption">Data Analytics</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":{"top":"0px","left":"0px"},"margin":{"top":"15px"}}}} -->
@@ -57,7 +57,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":191,"width":"164px","height":"auto","sizeSlug":"full","linkDestination":"custom","className":"margin-bottom-half"} -->
-<figure class="wp-block-image size-full is-resized margin-bottom-half"><img src="https://shamisochikamhi.files.wordpress.com/2024/01/dallc2b7e-2024-01-29-13.11.44-a-symbol-for-machine-learning-designed-to-be-modern-and-abstract.-the-symbol-should-feature-an-ai-brain-or-neural-network-motif-representing-the-con.png" alt="" class="wp-image-191" style="width:164px;height:auto"/><figcaption class="wp-element-caption">Machine Learning</figcaption></figure>
+<figure class="wp-block-image size-full is-resized margin-bottom-half"><img src="https://shamisochikamhi.wordpress.com/wp-content/uploads/2024/01/dallc2b7e-2024-01-29-13.11.44-a-symbol-for-machine-learning-designed-to-be-modern-and-abstract.-the-symbol-should-feature-an-ai-brain-or-neural-network-motif-representing-the-con.png" alt="" class="wp-image-191" style="width:164px;height:auto" /><figcaption class="wp-element-caption">Machine Learning</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":{"top":"0px","left":"0px"},"margin":{"top":"15px"}}}} -->
@@ -77,7 +77,7 @@
 <div class="wp-block-group"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":190,"width":"167px","height":"auto","sizeSlug":"full","linkDestination":"custom","className":"margin-bottom-half"} -->
-<figure class="wp-block-image size-full is-resized margin-bottom-half"><img src="https://shamisochikamhi.files.wordpress.com/2024/01/dallc2b7e-2024-01-29-13.00.55-a-symbol-representing-cloud-computing-featuring-a-modern-and-simplistic-design.-the-symbol-includes-a-stylized-cloud-shape-integrated-with-digital-el.png" alt="" class="wp-image-190" style="width:167px;height:auto"/><figcaption class="wp-element-caption">Cloud Computing</figcaption></figure>
+<figure class="wp-block-image size-full is-resized margin-bottom-half"><img src="https://shamisochikamhi.wordpress.com/wp-content/uploads/2024/01/dallc2b7e-2024-01-29-13.00.55-a-symbol-representing-cloud-computing-featuring-a-modern-and-simplistic-design.-the-symbol-includes-a-stylized-cloud-shape-integrated-with-digital-el.png" alt="" class="wp-image-190" style="width:167px;height:auto" /><figcaption class="wp-element-caption">Cloud Computing</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -87,7 +87,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":192,"width":"163px","height":"auto","sizeSlug":"full","linkDestination":"custom","className":"margin-bottom-half"} -->
-<figure class="wp-block-image size-full is-resized margin-bottom-half"><img src="https://shamisochikamhi.files.wordpress.com/2024/01/dall_e_2024-01-30_09.17.23_-_a_symbol_for_data_engineering_that_strikes_a_balance_between_simplicity_and_drama__featuring_a_moderately_detailed_design._the_icon_should_include_ele-remove.png" alt="" class="wp-image-192" style="width:163px;height:auto"/><figcaption class="wp-element-caption">Data Engenering</figcaption></figure>
+<figure class="wp-block-image size-full is-resized margin-bottom-half"><img src="https://shamisochikamhi.wordpress.com/wp-content/uploads/2024/01/dall_e_2024-01-30_09.17.23_-_a_symbol_for_data_engineering_that_strikes_a_balance_between_simplicity_and_drama__featuring_a_moderately_detailed_design._the_icon_should_include_ele-remove.png" alt="" class="wp-image-192" style="width:163px;height:auto" /><figcaption class="wp-element-caption">Data Engenering</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -109,7 +109,7 @@
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:details -->
 <details class="wp-block-details"><summary><strong>Data Bases and Warehousing</strong></summary><!-- wp:list -->
-<ul><!-- wp:list-item -->
+<ul class="wp-block-list"><!-- wp:list-item -->
 <li>Google Big Query </li>
 <!-- /wp:list-item -->
 
@@ -135,7 +135,7 @@
 <!-- wp:column {"verticalAlignment":"bottom"} -->
 <div class="wp-block-column is-vertically-aligned-bottom"><!-- wp:details -->
 <details class="wp-block-details"><summary><strong>Data Analytics</strong></summary><!-- wp:list -->
-<ul><!-- wp:list-item -->
+<ul class="wp-block-list"><!-- wp:list-item -->
 <li>Looker(Data) Studio</li>
 <!-- /wp:list-item -->
 
@@ -157,7 +157,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:details -->
 <details class="wp-block-details"><summary><strong>Machine Learning</strong></summary><!-- wp:list -->
-<ul><!-- wp:list-item -->
+<ul class="wp-block-list"><!-- wp:list-item -->
 <li>Supervised &amp; Unsepervised Learning</li>
 <!-- /wp:list-item -->
 
@@ -194,7 +194,7 @@
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top"} -->
 <div class="wp-block-column is-vertically-aligned-top"><!-- wp:details -->
 <details class="wp-block-details"><summary><strong>Programming</strong></summary><!-- wp:list -->
-<ul><!-- wp:list-item -->
+<ul class="wp-block-list"><!-- wp:list-item -->
 <li>Python</li>
 <!-- /wp:list-item -->
 
@@ -220,7 +220,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:details -->
 <details class="wp-block-details"><summary><strong>Cloud Computing</strong></summary><!-- wp:list -->
-<ul><!-- wp:list-item -->
+<ul class="wp-block-list"><!-- wp:list-item -->
 <li>Google Cloud Platform</li>
 <!-- /wp:list-item -->
 
@@ -263,11 +263,6 @@
 <!-- wp:block {"ref":92} /-->
 
 <!-- wp:group {"align":"wide","layout":{"type":"constrained","justifyContent":"center"}} -->
-<div class="wp-block-group alignwide"><!-- wp:heading {"align":"wide","style":{"elements":{"link":{"color":{"text":"var:preset|color|cyan-bluish-gray"}}}},"backgroundColor":"primary","textColor":"tertiary","fontSize":"xl-large"} -->
-<h1 class="wp-block-heading alignwide has-tertiary-color has-primary-background-color has-text-color has-background has-link-color has-xl-large-font-size"><strong>Projects</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:group {"align":"wide","layout":{"type":"constrained","justifyContent":"center"}} -->
 <div class="wp-block-group alignwide"><!-- wp:heading {"align":"wide","style":{"elements":{"link":{"color":{"text":"var:preset|color|cyan-bluish-gray"}}}},"backgroundColor":"primary","textColor":"tertiary","fontSize":"x-large"} -->
 <h2 class="wp-block-heading alignwide has-tertiary-color has-primary-background-color has-text-color has-background has-link-color has-x-large-font-size"><strong>Data Analytics</strong></h2>
 <!-- /wp:heading -->
@@ -296,7 +291,7 @@
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Tools: Data Studio &amp; Google sheets </summary><!-- wp:list {"ordered":true} -->
-<ol><!-- wp:list-item -->
+<ol class="wp-block-list"><!-- wp:list-item -->
 <li><strong>Google Sheets</strong> was to store and clean the data because it's easy to access from anywhere, simple to enter and tidy up data, making sure it's accurate and ready for analysis and it is free!</li>
 <!-- /wp:list-item -->
 
@@ -338,18 +333,52 @@
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></details>
+<!-- /wp:details -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><a href="https://www.kaggle.com/code/shamisolchikamhi/detailed-solution-spaceship-titanic-80" target="_blank" rel="noreferrer noopener">Predict Titanic Spaceship Passenger Classifier.</a> </h4>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>The <strong>Titanic Spaceship</strong> problem is a machine learning classification challenge aimed at predicting which passengers were transported to an alternate dimension during a spacetime anomaly involving the Spaceship Titanic. The objective is to build a model that can accurately predict the transport status of each passenger using historical data recovered from the ship's damaged system. This data includes a variety of features related to passengers' personal information, travel details, and amenities used during their journey. Successfully predicting passenger transport status will help to reconstruct the event and assist rescue effor</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>I used several machine learning models to solve this problem, including <strong>Random Forest</strong>, <strong>LightGBM</strong>, and a <strong>Stacking Classifier</strong>. Each of these models brings its own strengths and capabilities, which were carefully evaluated to determine the most effective solution.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true,"start":1} -->
+<ol start="1" class="wp-block-list"><!-- wp:list-item -->
+<li><strong>RandomForestClassifier</strong>: The <strong>RandomForestClassifier</strong> was trained with hyperparameter tuning using <strong>GridSearchCV</strong>. The parameter grid included hyperparameters such as the number of trees (<code>n_estimators</code>), maximum depth (<code>max_depth</code>), and minimum samples split (<code>min_samples_split</code>). Additionally, <strong>K-fold cross-validation</strong> was used to ensure that the model's performance was consistent across different subsets of the data, thereby reducing overfitting and making the model more robust. Despite achieving high accuracy on the training set, the Random Forest model exhibited some signs of overfitting, with a drop in accuracy when evaluated on the test data.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>LightGBMClassifier</strong>: The <strong>LightGBMClassifier</strong> was also employed to solve the problem. LightGBM is known for its efficiency in handling large datasets and its use of boosting techniques, which help in improving prediction accuracy while controlling overfitting. The model was optimized using efficient multi-threading and boosting techniques, and it automatically balanced positive and negative samples. LightGBM leveraged all 27 features available, providing robust performance by focusing on maximizing the information gain at each split. This model showed balanced accuracy with efficient resource usage.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>StackingClassifier</strong>: The <strong>StackingClassifier</strong> was the final model used in this analysis, combining multiple base models, including <strong>Random Forest</strong> and <strong>LightGBM</strong>, with <strong>Logistic Regression</strong> as the final estimator. Stacking is an ensemble learning technique that aims to enhance the predictive capabilities by combining the strengths of different individual models. In this case, the <strong>StackingClassifier</strong> first trains the Random Forest and LightGBM models independently and then uses their predictions as inputs for the Logistic Regression model, which learns the best way to combine these predictions. This approach aims to leverage the diversity of different base learners, thereby capturing multiple aspects of the data and making more accurate predictions.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>The <strong>StackingClassifier</strong> demonstrated improved generalization capabilities compared to the individual models. The train accuracy was lower than that of Random Forest (0.94 vs. 0.98), indicating a reduced risk of overfitting. The test accuracy (0.81) and Kaggle score (0.80757) were both higher compared to the individual models, which indicates that the <strong>StackingClassifier</strong> was able to better generalize to unseen data and deliver more consistent results. By combining models with different strengths, the StackingClassifier effectively minimized errors that each individual model might have been prone to, resulting in an overall performance boost. This method ultimately achieved the best balance between high accuracy and robust generalization, making it the preferred approach for solving the Titanic Spaceship problem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:details {"align":"wide"} -->
+<details class="wp-block-details alignwide"><summary>Tech Stack: <strong>Scikit-learn</strong>, <strong>Python</strong>, <strong>GridSearchCV</strong></summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>Details</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></details>
 <!-- /wp:details --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:details {"align":"wide"} -->
-<details class="wp-block-details alignwide"><summary>Tech Stack: R &amp; R-Studio</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
-<p></p>
-<!-- /wp:paragraph --></details>
-<!-- /wp:details -->
-
-<!-- wp:separator {"align":"wide","style":{"color":{"gradient":"radial-gradient(rgba(6,147,227,1) 0%,rgb(155,81,224) 100%)"}},"className":"is-style-wide"} -->
+<!-- wp:separator {"align":"wide","className":"is-style-wide","style":{"color":{"gradient":"radial-gradient(rgba(6,147,227,1) 0%,rgb(155,81,224) 100%)"}}} -->
 <hr class="wp-block-separator alignwide has-alpha-channel-opacity has-background is-style-wide" />
 <!-- /wp:separator -->
 
@@ -369,7 +398,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><!-- wp:list-item -->
+<ul class="wp-block-list"><!-- wp:list-item -->
 <li><strong>NLTK &amp; SpaCy:</strong> These helped me break down sentences to their bones, tagging words and picking out key phrases.</li>
 <!-- /wp:list-item -->
 
